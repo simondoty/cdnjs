@@ -25,12 +25,8 @@
     "target": "git://github.com/imakewebthings/waypoints.git",
     "basePath": "lib",
     "files": [
-      "shortcuts/infinite.min.js",
-      "shortcuts/sticky.min.js",
-      "shortcuts/inview.min.js",
-      "jquery.waypoints.min.js",
-      "noframework.waypoints.min.js",
-      "zepto.waypoints.min.js"
+      "shortcuts/*.js",
+      "*.js",
     ]
   }
 }
